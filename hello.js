@@ -23,5 +23,5 @@ holder = "Sachin Spec"; // Variable update
 console.log(holder); //
 
 var myFullName;
-myFullName=Poonam rahul godse;
+myFullName="Poonam godse";
 console.log(FullName);
